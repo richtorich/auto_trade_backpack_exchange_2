@@ -1,8 +1,8 @@
 
 /////// Setting here ///////
 const number = 1000; // total number buy/sell
-const minSleep = 10; // 10s
-const maxSleep = 30; // 30s
+const minSleep = 05; // 05s
+const maxSleep = 10; // 10s
 ///////////////////////////
 
 let count = 0;
