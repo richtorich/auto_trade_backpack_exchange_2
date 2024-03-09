@@ -1,7 +1,7 @@
 
 /////// Setting here ///////
 const number = 1000; // total number buy/sell
-const minSleep = 05; // 05s
+const minSleep = 5; // 5s
 const maxSleep = 10; // 10s
 ///////////////////////////
 
